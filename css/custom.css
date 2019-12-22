@@ -1,3 +1,9 @@
 h1, p   {
     font-family: 'Courier New', Courier, monospace;
+    text-decoration-color: lightgray ;
 }  
+
+body    {
+    background-color: black
+    ;
+}
